@@ -4,7 +4,8 @@ Me llamo Francisco Carrera. Me considero alguien curioso y meticuloso. Siempre t
 
 Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Bootcamp como QA manual, y proximamente de automatización con Python, así como mis proyectos personales. No me asusta meterme con nuevas herramientas, y si algo me interesa, seguro voy a terminar investigándolo a fondo.
 
-:---:
+<p align="center">
+---
 
 ### 🛠️ Tech Skills
 
@@ -18,7 +19,7 @@ Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Boo
 ![HTTP](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-:---:
+---
 
 ### 💡 Soft Skills
 
@@ -30,5 +31,7 @@ Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Boo
 ![Trabajo Agile](https://img.shields.io/badge/Trabajo%20Agile-2414B3?style=for-the-badge)
 
 ---
+
+</p>
 
 > 🦂🇲🇽
