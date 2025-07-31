@@ -8,7 +8,7 @@ Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Boo
 
 ### 🛠️ Tech Skills
 
-![Python](https://img.shields.io/badge/Python-CCF527?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-058013?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![API](https://img.shields.io/badge/API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -22,7 +22,7 @@ Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Boo
 
 ### 💡 Soft Skills
 
-![Tester Manual](https://img.shields.io/badge/Tester%20Manual-%23f4c430?style=for-the-badge)  
+![Tester Manual](https://img.shields.io/badge/Tester%20Manual-943F2B?style=for-the-badge)  
 ![Analítico](https://img.shields.io/badge/Analítico-%232bb673?style=for-the-badge)  
 ![Lógico](https://img.shields.io/badge/Lógico-%236a5acd?style=for-the-badge)  
 ![Proactivo](https://img.shields.io/badge/Proactivo-%23ff8c00?style=for-the-badge)  
