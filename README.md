@@ -7,7 +7,8 @@ Aquí vas a encontrar algunos de los proyectos en los que he trabajado en mi Boo
 </div>
 
 ---
-
+<div align="center">
+</div>
 ### 🛠️ Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-058013?style=for-the-badge&logo=python&logoColor=white) 
